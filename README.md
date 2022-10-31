@@ -1,6 +1,8 @@
 # kl_utils
 A repository for all the silly scripts I use for nothing important.
 
+Any script included here is not optimal to any standards and definitely not bug-free. They are silly scripts I wrote in less than an hour each.
+
 ## _syntax.rb
 Makes the parts that I don't like a bit easier to read. Makes the following transformations:
 - `(.sym(...))` becomes `{|it|it.sym(...)}`
